@@ -1,4 +1,13 @@
-# H.R._Analytics_PowerBI_Dashboard📊
+# H.R. Analytics PowerBI Dashboard📊
+---
+**Tools Used** -
+
+> **Microsoft Excel**
+
+> **PowerBI**
+
+> **PowerQuery**
+---
 
 🔎Some Key Findings-
 1. Analyzed a workforce of **1470 employees** identifying a **16 percent** attrition rate driven by- age, salary, education and job roles.
